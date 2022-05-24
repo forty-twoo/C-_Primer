@@ -1,2 +1,2 @@
 # Cpp_Primer_5th
-Solution to 《C++ Primer》
+My Solutions to 《C++ Primer》exercises.
